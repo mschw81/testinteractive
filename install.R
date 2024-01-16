@@ -1,0 +1,7 @@
+install.packages("here")
+install.packages("dplyr")
+install.packages("readxl")
+install.packages("stringr")
+install.packages("umap")
+install.packages("tsne")
+install.packages("ggplot2")
